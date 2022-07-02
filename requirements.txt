@@ -1,0 +1,6 @@
+fastapi==0.78.0
+ocpp==0.15.0
+pydantic==1.9.0
+python-dotenv==0.20.0
+uvicorn==0.17.6
+websockets==10.3
